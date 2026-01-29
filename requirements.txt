@@ -1,0 +1,15 @@
+torch==2.1.0
+torchvision==0.16.0
+
+numpy==1.26.4
+pillow==10.2.0
+matplotlib==3.8.2
+
+wandb==0.24.0
+fiftyone==0.23.8
+
+scikit-learn==1.4.0
+
+# Jupyter / notebook tooling (for local runs)
+ipykernel==6.29.0
+notebook==7.0.6
