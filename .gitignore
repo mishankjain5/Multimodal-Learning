@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual envs
+venv/
+.venv/
+
+# Data
+data/
+data/assessment/
+
+# Weights & Biases local logs
+wandb/
+
+# OS / editor files
+.DS_Store
+.vscode/
+.idea/
